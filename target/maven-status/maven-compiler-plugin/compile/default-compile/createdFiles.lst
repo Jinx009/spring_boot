@@ -1,0 +1,6 @@
+com/jinx/configuration/JpaConfiguration.class
+com/jinx/controller/UserController.class
+com/jinx/repositoty/UserRepositoty.class
+com/jinx/configuration/Entry.class
+com/jinx/model/User.class
+com/jinx/service/UserService.class
