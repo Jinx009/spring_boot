@@ -1,6 +1,5 @@
 package com.jinx.entity;
 
-import com.alibaba.fastjson.JSON;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
